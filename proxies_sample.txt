@@ -1,0 +1,19 @@
+# Double Counter Bypass - Proxy List
+# Replace these with real, working proxy servers
+# Format: IP:PORT (one per line)
+
+# Example proxies (these are NOT real - replace with actual proxies):
+# 192.168.1.100:8080
+# 203.0.113.1:3128
+# 198.51.100.1:1080
+# 203.0.113.2:8080
+# 198.51.100.2:3128
+
+# Get real proxies from:
+# - Proxy service providers
+# - Residential proxy services
+# - Datacenter proxy providers
+# - Free proxy lists (less reliable)
+
+# Current placeholder (will cause connection errors):
+IP:PORT
